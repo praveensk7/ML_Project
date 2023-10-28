@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/pra7n/work/ML_project/mlenv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

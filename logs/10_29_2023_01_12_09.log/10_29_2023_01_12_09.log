@@ -1,0 +1,5 @@
+[2023-10-29 01:12:09,880] 28 root - INFO - Entered data ingestion method
+[2023-10-29 01:12:09,883] 32 root - INFO - Dataset Read as DF
+[2023-10-29 01:12:09,886] 37 root - INFO - Train test split initiated
+[2023-10-29 01:12:09,890] 44 root - INFO - Ingestion done
+[2023-10-29 01:12:09,892] 69 root - INFO - train and test read
