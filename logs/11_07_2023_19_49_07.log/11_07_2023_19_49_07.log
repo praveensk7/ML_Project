@@ -1,0 +1,10 @@
+[2023-11-07 19:49:09,238] 30 root - INFO - Entered data ingestion method
+[2023-11-07 19:49:09,246] 34 root - INFO - Dataset Read as DF
+[2023-11-07 19:49:09,252] 39 root - INFO - Train test split initiated
+[2023-11-07 19:49:09,261] 46 root - INFO - Ingestion done
+[2023-11-07 19:49:09,264] 74 root - INFO - train and test read
+[2023-11-07 19:49:09,264] 52 root - INFO - pipelines created for num and cat
+[2023-11-07 19:49:09,264] 61 root - INFO - transformer created for num and cat
+[2023-11-07 19:49:09,287] 96 root - INFO - Saved preprocessing object.
+[2023-11-07 19:49:09,291] 29 root - INFO - model trainer class initiated
+[2023-11-07 19:49:59,630] 88 root - INFO - best model found on give model with the score of 0.8940466814197376

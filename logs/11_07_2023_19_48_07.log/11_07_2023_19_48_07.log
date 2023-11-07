@@ -1,0 +1,9 @@
+[2023-11-07 19:48:08,928] 30 root - INFO - Entered data ingestion method
+[2023-11-07 19:48:08,936] 34 root - INFO - Dataset Read as DF
+[2023-11-07 19:48:08,942] 39 root - INFO - Train test split initiated
+[2023-11-07 19:48:08,951] 46 root - INFO - Ingestion done
+[2023-11-07 19:48:08,954] 74 root - INFO - train and test read
+[2023-11-07 19:48:08,954] 52 root - INFO - pipelines created for num and cat
+[2023-11-07 19:48:08,954] 61 root - INFO - transformer created for num and cat
+[2023-11-07 19:48:08,978] 96 root - INFO - Saved preprocessing object.
+[2023-11-07 19:48:08,982] 29 root - INFO - model trainer class initiated
